@@ -3,7 +3,7 @@
 Some sample applications for practise TDD style development.
 
 * Custom ArrayList implementation.
-
+* WordSplitter implementation.
 
 ### Requirements
 
