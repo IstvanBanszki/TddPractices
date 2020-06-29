@@ -4,6 +4,9 @@ Some sample applications for practise TDD style development.
 
 * Custom ArrayList implementation.
 * WordSplitter implementation.
+* LineSplitter implementation.
+* PokerEvaluator implementation.
+* CashRegister implementation.
 
 ### Requirements
 
